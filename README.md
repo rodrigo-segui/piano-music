@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img alt="piano-music" title="#delicinha" src="/piano-img-music.png" width="200px" />
+    <img alt="piano-music" title="#delicinha" src="sources/piano.png" width="500px" />
 </h1>
 
-# Web Scraping
+# piano-music
 Implementação de um piano virtual em JavaScript
 
 <p align="center">
@@ -23,17 +23,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
  
-O piano-music é um piano virtual que pode ser tocado com click e keydown
-### Backend
+O piano-music é um projeto de um piano virtual 
+### Backend-FrontEnd
  
- 1. 
- 2. 
- 
-### FrontEnd
- 
-
- 1. 
- 2. 
+ O projeto foi implementado basicamente em JavaScript, onde foi criado funções que possibilitam tocar o instrumento a partir do teclado do computador ou do click do mouse.<br>
+ O mapeamento do teclado e das notas musicais está da seguinte forma:
+tecla     | nota musical
+--------- | ------
+"C"       | A
+"C#"      | W
+"D"       | S
+"D#"      | E
+"E"       | D
+"F"       | F
+"F#"      | T
+"G"       | G
+"G#"      | Y
+"A"       | H
+"A#"      | U
+"B"       | J
+"C"       | K
+"C#"      | O
+"D"       | K
+"D#"      | P
  
 
 ## Começando
