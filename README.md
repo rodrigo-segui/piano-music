@@ -28,7 +28,7 @@ O piano-music é um projeto de um piano virtual
  
  O projeto foi implementado basicamente em JavaScript, onde foi criado funções que possibilitam tocar o instrumento a partir do teclado do computador ou do click do mouse.<br>
  O mapeamento do teclado e das notas musicais está da seguinte forma:
-tecla     | nota musical
+nota      | tecla
 --------- | ------
 "C"       | A
 "C#"      | W
