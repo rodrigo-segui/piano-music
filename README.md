@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O piano-music é um projeto de um piano virtual.
 ### Backend-FrontEnd
  
- O projeto foi implementado basicamente em JavaScript, onde foi criado funções que possibilitam tocar o instrumento a partir do teclado do computador ou do click do mouse.<br>
+ O projeto foi implementadoo basicamente em JavaScript, onde foi criado funções que possibilitam tocar o instrumento a partir do teclado do computador ou do click do mouse.<br>
  O mapeamento do teclado e das notas musicais está da seguinte forma:
 nota      | tecla
 --------- | ------
